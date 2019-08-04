@@ -1,0 +1,143 @@
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Day9_10.dll.config
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Day9_10.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Day9_10.pdb
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\csc.exe
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\csc.exe.config
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\csc.rsp
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\csi.exe
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\csi.exe.config
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\csi.rsp
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.Managed.Core.targets
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.AppContext.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Collections.Immutable.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Console.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.IO.Compression.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.IO.FileSystem.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.IO.Pipes.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Reflection.Metadata.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Security.AccessControl.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Security.Claims.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Security.Principal.Windows.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.ValueTuple.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Xml.XmlDocument.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Xml.XPath.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\vbc.exe
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\vbc.exe.config
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\vbc.rsp
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\VBCSCompiler.exe
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\roslyn\VBCSCompiler.exe.config
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Antlr3.Runtime.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\AspNet.ScriptManager.bootstrap.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\AspNet.ScriptManager.jQuery.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.ScriptManager.WebForms.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.Web.Infrastructure.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Newtonsoft.Json.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\System.Web.Optimization.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\WebGrease.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\System.Web.Optimization.xml
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Newtonsoft.Json.xml
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Antlr3.Runtime.pdb
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\obj\Debug\Day9_10.csprojAssemblyReference.cache
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\obj\Debug\Day9_10.csproj.CoreCompileInputs.cache
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\obj\Debug\Day9_10.csproj.CopyComplete
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\obj\Debug\Day9_10.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Day9_10\Day9_10\Day9_10\obj\Debug\Day9_10.pdb
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Day9_10.dll.config
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Day9_10.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Day9_10.pdb
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\csc.exe
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\csc.exe.config
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\csc.rsp
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\csi.exe
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\csi.exe.config
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\csi.rsp
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.Managed.Core.targets
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.AppContext.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Collections.Immutable.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Console.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.IO.Compression.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.IO.FileSystem.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.IO.Pipes.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Reflection.Metadata.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Security.AccessControl.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Security.Claims.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Security.Principal.Windows.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.ValueTuple.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Xml.XmlDocument.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Xml.XPath.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\vbc.exe
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\vbc.exe.config
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\vbc.rsp
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\VBCSCompiler.exe
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\roslyn\VBCSCompiler.exe.config
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Antlr3.Runtime.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\AspNet.ScriptManager.bootstrap.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\AspNet.ScriptManager.jQuery.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.ScriptManager.WebForms.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.Web.Infrastructure.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Newtonsoft.Json.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\System.Web.Optimization.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\WebGrease.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\System.Web.Optimization.xml
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Newtonsoft.Json.xml
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Antlr3.Runtime.pdb
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\obj\Debug\Day9_10.csprojAssemblyReference.cache
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\obj\Debug\Day9_10.csproj.CoreCompileInputs.cache
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\obj\Debug\Day9_10.csproj.CopyComplete
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\obj\Debug\Day9_10.dll
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\obj\Debug\Day9_10.pdb
+G:\NET Master\NET\Day9_10\Day9_10\Day9_10\bin\MySql.Data.dll
